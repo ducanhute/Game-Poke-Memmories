@@ -1,0 +1,3 @@
+Feature: 
+- Khi mở 2 card khác nhau sẽ tự động đóng
+- Khởi chạy thời gian khi bấm vào màn hình interact
