@@ -8,10 +8,6 @@
         Select mode to start game
       </h3>
       <div class="actions" style="padding-top: 30px; text-align: center">
-        <button @click="onStart(4)">
-          <p>2x2</p>
-          <p>Easy</p>
-        </button>
         <button @click="onStart(16)">
           <p>4x4</p>
           <p>Easy</p>
